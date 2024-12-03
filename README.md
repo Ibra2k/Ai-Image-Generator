@@ -1,4 +1,3 @@
-
 # Description
 
 The App contains a Jetpack Compose Android app which generates AI generated images using a Python Flask Backend integration. The Python server makes an API request to a Hugging Face AI Model (stabilityai/stable-diffusion-3.5-large). With the fetched images we can use Flask and make API requests to the Python server (from our compose app using Retrofit & OkHttp) and get the images from there to display on the app.
@@ -23,3 +22,11 @@ Create a .env file and add your huggingface api key, which can be copied from th
 3. Enter a prompt you would like such as "Beautiful sunset over the horizon"
 4. You will see the prompt being requested in your python terminal
 5. Once in the loading screen, if the image does not load. Press back button and enter the prompt again. (PS: I think its a problem with warming up the server)
+
+# Preview 
+
+### Generated image that coverts all prompts to minecraft scenary by hardcoding input.
+  ![Minecraft_SnowyMountains](https://github.com/user-attachments/assets/41b1b2fd-3a35-4f56-b419-513b06697e03)
+
+## Generated image with no input prompt harcoding.
+  ![RL_Couple_Sunset](https://github.com/user-attachments/assets/89abb9e5-c31b-4c44-836c-fa1adbd706ff)

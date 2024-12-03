@@ -25,8 +25,8 @@ Create a .env file and add your huggingface api key, which can be copied from th
 
 # Preview 
 
--Example of generated image that coverts all prompts to minecraft scenary (yes the game).
+## Example of generated image that coverts all prompts to minecraft scenary (yes the game).
   ![Minecraft_SnowyMountains](https://github.com/user-attachments/assets/41b1b2fd-3a35-4f56-b419-513b06697e03)
 
--Example of a normal generated image with no prompt conversion on the source code
+## Example of a normal generated image with no prompt conversion on the source code (I get lonely sometimes).
   ![RL_Couple_Sunset](https://github.com/user-attachments/assets/89abb9e5-c31b-4c44-836c-fa1adbd706ff)

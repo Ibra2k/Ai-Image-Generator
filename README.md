@@ -22,3 +22,11 @@ Create a .env file and add your huggingface api key, which can be copied from th
 3. Enter a prompt you would like such as "Beautiful sunset over the horizon"
 4. You will see the prompt being requested in your python terminal
 5. Once in the loading screen, if the image does not load. Press back button and enter the prompt again. (PS: I think its a problem with warming up the server)
+
+# Preview 
+
+-Example of generated image that coverts all prompts to minecraft scenary (yes the game).
+  ![Minecraft_SnowyMountains](https://github.com/user-attachments/assets/41b1b2fd-3a35-4f56-b419-513b06697e03)
+
+-Example of a normal generated image with no prompt conversion on the source code
+  ![RL_Couple_Sunset](https://github.com/user-attachments/assets/89abb9e5-c31b-4c44-836c-fa1adbd706ff)

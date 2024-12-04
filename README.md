@@ -26,7 +26,8 @@ Create a .env file and add your huggingface api key, which can be copied from th
 # Preview 
 
 ### Generated image that coverts all prompts to minecraft scenary by hardcoding input.
-  ![Minecraft_SnowyMountains](https://github.com/user-attachments/assets/41b1b2fd-3a35-4f56-b419-513b06697e03)
+![spedUpSnowMountains](https://github.com/user-attachments/assets/39cb0ea3-3fc9-42d7-9930-c3e5c3fb6c71)
+
 
 ## Generated image with no input prompt harcoding.
-  ![RL_Couple_Sunset](https://github.com/user-attachments/assets/89abb9e5-c31b-4c44-836c-fa1adbd706ff)
+![spedUpCouple](https://github.com/user-attachments/assets/8a22f869-3b71-41d2-a104-65488df67e59)
